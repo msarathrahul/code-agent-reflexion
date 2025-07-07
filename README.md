@@ -29,7 +29,7 @@ langgraph_code_assistant/
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/msarathrahul/code-agent-reflexion.git
     cd langgraph_code_assistant
     ```
 
