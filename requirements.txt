@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-openai
+langchain-anthropic
+langgraph
+beautifulsoup4
+langsmith
+typing-extensions
+pydantic
+openai
+anthropic
+requests
+lxml
